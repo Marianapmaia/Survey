@@ -2,19 +2,20 @@
 
 Dear survey participant, 
 <div style="text-align: justify">
-thank you very much for sparing 10 minutes of your time to answer our questionnaire. We are researchers investigating privacy aspects in the development of software-intensive products and services, under the perspective of development teams. The results of this survey will help us to understand how privacy is taken into consideration.</div>
+thank you very much for sparing 10 minutes of your time to answer our questionnaire. We are researchers investigating privacy aspects in the development of software-intensive products and services, under the perspective of development teams. The results of this survey will help us understand how privacy is taken into consideration.</div>
 
 ### Survey Principles and Participation:
-<div style="text-align: justify"> Please note that the survey is completely anonymous and we apply the highest academic standards along with the data collection and data analysis. Further, all researchers are committed to open science practices which means that we will disclose the data collected afterward to the public; however, before disclosing research data, we will sanitise and anonymize it further in case we see specific entries that might allow to trace back the responses given to a specific organizational setting. Finally, we will ask you a series of specific questions directed at your experiences made in your development iterations than in your organization. That is, if not stated otherwise, please refer to your experiences in your most recent software development iteration.  </div>
+<div style="text-align: justify"> Please note that the survey is completely anonymous and we apply the highest academic standards along with the data collection and data analysis. Further, all researchers are committed to open science practices which means that we will disclose the data collected afterward to the public; however, before disclosing research data, we will sanitise and anonymize it further in case we see specific entries that might allow to trace back the responses given to a specific organizational setting. Finally, we will ask you a series of specific questions directed at your experiences made in your development team than in your organization. That is, if not stated otherwise, please refer to your experiences in your most recent software development iteration.   </div>
 
 ### Structure of the survey: 
-The survey includes several questions structured into the following categories: 
+Structure of the survey: The survey includes several questions structured into the following categories: 
 
-- General information about you and the development iterations that you have participated
+- General information about your profile as a developer and the development iterations that you have participated.
 
-- Questions on privacy knowledge. 
+- Questions on privacy your knowledge. 
 
 - Questions on organizational procedures and practices regarding privacy.
+
 
  
 
