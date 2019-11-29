@@ -12,7 +12,7 @@ Structure of the survey: The survey includes several questions structured into t
 
 - General information about your profile as a developer and the development iterations that you have participated.
 
-- Questions on privacy your knowledge. 
+- Questions on your privacy knowledge. 
 
 - Questions on organizational procedures and practices regarding privacy.
 
